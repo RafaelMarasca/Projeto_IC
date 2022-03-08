@@ -1,2 +1,2 @@
 # Projeto_IC
-Atividades da IC
+Repositório de Atividades da IC
